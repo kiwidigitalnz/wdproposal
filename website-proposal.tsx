@@ -102,9 +102,9 @@ export default function WebsiteProposal() {
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-blue-500">
                   <CardContent className="p-4 flex flex-col items-center text-center">
-                    <BarChart className="h-8 w-8 text-primary mb-2" />
+                    <BarChart className="h-8 w-8 text-blue-500 mb-2" />
                     <h3 className="font-medium">Increase Direct Bookings</h3>
                     <p className="text-sm text-muted-foreground">
                       Potential 30% increase in direct bookings, reducing OTA commission fees
@@ -112,9 +112,9 @@ export default function WebsiteProposal() {
                   </CardContent>
                 </Card>
 
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-purple-500">
                   <CardContent className="p-4 flex flex-col items-center text-center">
-                    <Search className="h-8 w-8 text-primary mb-2" />
+                    <Search className="h-8 w-8 text-purple-500 mb-2" />
                     <h3 className="font-medium">Improve Visibility</h3>
                     <p className="text-sm text-muted-foreground">
                       Enhanced SEO to improve local search rankings for "Hastings accommodation"
@@ -122,9 +122,9 @@ export default function WebsiteProposal() {
                   </CardContent>
                 </Card>
 
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-green-500">
                   <CardContent className="p-4 flex flex-col items-center text-center">
-                    <MessageSquare className="h-8 w-8 text-primary mb-2" />
+                    <MessageSquare className="h-8 w-8 text-green-500 mb-2" />
                     <h3 className="font-medium">Enhance Guest Experience</h3>
                     <p className="text-sm text-muted-foreground">Streamlined booking process and information access</p>
                   </CardContent>
@@ -755,10 +755,10 @@ export default function WebsiteProposal() {
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-blue-500">
                   <CardHeader className="pb-2">
                     <CardTitle className="text-base flex items-center gap-2">
-                      <FileCode className="h-4 w-4 text-primary" />
+                      <FileCode className="h-4 w-4 text-blue-500" />
                       <span>Core Technologies</span>
                     </CardTitle>
                   </CardHeader>
@@ -796,10 +796,10 @@ export default function WebsiteProposal() {
                   </CardContent>
                 </Card>
 
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-purple-500">
                   <CardHeader className="pb-2">
                     <CardTitle className="text-base flex items-center gap-2">
-                      <Zap className="h-4 w-4 text-primary" />
+                      <Zap className="h-4 w-4 text-purple-500" />
                       <span>Plugins & Extensions</span>
                     </CardTitle>
                   </CardHeader>
@@ -837,10 +837,10 @@ export default function WebsiteProposal() {
                   </CardContent>
                 </Card>
 
-                <Card className="bg-background">
+                <Card className="bg-background border-l-4 border-l-green-500">
                   <CardHeader className="pb-2">
                     <CardTitle className="text-base flex items-center gap-2">
-                      <Shield className="h-4 w-4 text-primary" />
+                      <Shield className="h-4 w-4 text-green-500" />
                       <span>Hosting & Infrastructure</span>
                     </CardTitle>
                   </CardHeader>
@@ -939,8 +939,8 @@ export default function WebsiteProposal() {
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">
                 <div className="flex flex-col items-center text-center space-y-2">
-                  <div className="bg-muted p-4 rounded-full">
-                    <Smartphone className="h-8 w-8 text-primary" />
+                  <div className="bg-blue-500/10 p-4 rounded-full">
+                    <Smartphone className="h-8 w-8 text-blue-500" />
                   </div>
                   <h3 className="font-medium">Mobile</h3>
                   <p className="text-sm text-muted-foreground">
@@ -949,8 +949,8 @@ export default function WebsiteProposal() {
                 </div>
 
                 <div className="flex flex-col items-center text-center space-y-2">
-                  <div className="bg-muted p-4 rounded-full">
-                    <Tablet className="h-8 w-8 text-primary" />
+                  <div className="bg-purple-500/10 p-4 rounded-full">
+                    <Tablet className="h-8 w-8 text-purple-500" />
                   </div>
                   <h3 className="font-medium">Tablet</h3>
                   <p className="text-sm text-muted-foreground">
@@ -959,8 +959,8 @@ export default function WebsiteProposal() {
                 </div>
 
                 <div className="flex flex-col items-center text-center space-y-2">
-                  <div className="bg-muted p-4 rounded-full">
-                    <Laptop className="h-8 w-8 text-primary" />
+                  <div className="bg-green-500/10 p-4 rounded-full">
+                    <Laptop className="h-8 w-8 text-green-500" />
                   </div>
                   <h3 className="font-medium">Desktop</h3>
                   <p className="text-sm text-muted-foreground">
@@ -2178,32 +2178,32 @@ export default function WebsiteProposal() {
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  <div className="bg-background p-4 rounded-md flex flex-col items-center text-center">
-                    <BarChart className="h-8 w-8 text-primary mb-2" />
+                  <div className="bg-background border-l-4 border-l-blue-500 p-4 rounded-md flex flex-col items-center text-center">
+                    <BarChart className="h-8 w-8 text-blue-500 mb-2" />
                     <h3 className="font-medium">Drive Direct Bookings</h3>
                     <p className="text-sm text-muted-foreground">
                       Reduce OTA commissions and increase your profit margin
                     </p>
                   </div>
 
-                  <div className="bg-background p-4 rounded-md flex flex-col items-center text-center">
-                    <Wifi className="h-8 w-8 text-primary mb-2" />
+                  <div className="bg-background border-l-4 border-l-purple-500 p-4 rounded-md flex flex-col items-center text-center">
+                    <Wifi className="h-8 w-8 text-purple-500 mb-2" />
                     <h3 className="font-medium">Expand Your Reach</h3>
                     <p className="text-sm text-muted-foreground">Attract new guests through improved online visibility</p>
                   </div>
 
-                  <div className="bg-background p-4 rounded-md flex flex-col items-center text-center">
-                    <Smartphone className="h-8 w-8 text-primary mb-2" />
+                  <div className="bg-background border-l-4 border-l-green-500 p-4 rounded-md flex flex-col items-center text-center">
+                    <Smartphone className="h-8 w-8 text-green-500 mb-2" />
                     <h3 className="font-medium">Enhance User Experience</h3>
                     <p className="text-sm text-muted-foreground">Provide a seamless booking journey on any device</p>
                   </div>
                 </div>
 
                 <div className="flex flex-col md:flex-row justify-center gap-4 mt-6">
-                  <Button size="lg" className="w-full md:w-auto">
+                  <Button size="lg" className="w-full md:w-auto bg-blue-500 hover:bg-blue-600">
                     Accept Proposal
                   </Button>
-                  <Button variant="outline" size="lg" className="w-full md:w-auto">
+                  <Button variant="outline" size="lg" className="w-full md:w-auto border-purple-500 text-purple-500 hover:bg-purple-50">
                     Schedule a Call
                   </Button>
                 </div>
