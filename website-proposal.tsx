@@ -80,7 +80,7 @@ export default function WebsiteProposal() {
                     />
                   </div>
                   <p className="font-medium">Richard Barely</p>
-                  <p>Kiwi Digital Ltd.</p>
+                  <p>Kiwi Digital Ltd</p>
                 </div>
               </div>
             </CardContent>
@@ -107,7 +107,7 @@ export default function WebsiteProposal() {
                     <BarChart className="h-8 w-8 text-blue-500 mb-2" />
                     <h3 className="font-medium">Increase Direct Bookings</h3>
                     <p className="text-sm text-muted-foreground">
-                      Potential 30% increase in direct bookings, reducing OTA commission fees
+                      Potential increase in direct bookings, reducing OTA commission fees
                     </p>
                   </CardContent>
                 </Card>
@@ -210,7 +210,7 @@ export default function WebsiteProposal() {
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2">
                       <CheckSquare className="h-4 w-4 text-primary mt-0.5" />
-                      <span>Increase direct bookings by 30%</span>
+                      <span>Increase direct bookings</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckSquare className="h-4 w-4 text-primary mt-0.5" />
@@ -222,7 +222,7 @@ export default function WebsiteProposal() {
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckSquare className="h-4 w-4 text-primary mt-0.5" />
-                      <span>Improve local search visibility in Hastings area</span>
+                      <span>Improve local search visibility in Hawkes Bay area</span>
                     </li>
                   </ul>
                 </div>
@@ -243,7 +243,7 @@ export default function WebsiteProposal() {
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckSquare className="h-4 w-4 text-primary mt-0.5" />
-                      <span>Tourists exploring Hastings and surrounding areas</span>
+                      <span>Tourists exploring Hawkes Bay and surrounding areas</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckSquare className="h-4 w-4 text-primary mt-0.5" />
@@ -689,7 +689,7 @@ export default function WebsiteProposal() {
                             <div>
                               <span className="font-medium">Server Transition</span>
                               <p className="text-sm text-muted-foreground mt-1">
-                                Migration of website to your production server
+                                Migration of website to production server
                               </p>
                             </div>
                           </li>
@@ -750,7 +750,7 @@ export default function WebsiteProposal() {
             <CardHeader>
               <CardTitle>WordPress Development Platform</CardTitle>
               <CardDescription>
-                Industry-leading content management system powering over 40% of all websites
+                Industry-leading content management system powering over 40% of all websites globaly
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
@@ -928,7 +928,7 @@ export default function WebsiteProposal() {
           <Card>
             <CardHeader>
               <CardTitle>Mobile-First Design Approach</CardTitle>
-              <CardDescription>Optimized experience across all devices and screen sizes</CardDescription>
+              <CardDescription>Optimised experience across all devices and screen sizes</CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
               <p>
@@ -944,7 +944,7 @@ export default function WebsiteProposal() {
                   </div>
                   <h3 className="font-medium">Mobile</h3>
                   <p className="text-sm text-muted-foreground">
-                    Optimized for smartphones with touch-friendly navigation and streamlined content
+                    Optimised for smartphones with touch-friendly navigation and streamlined content
                   </p>
                 </div>
 
@@ -954,7 +954,7 @@ export default function WebsiteProposal() {
                   </div>
                   <h3 className="font-medium">Tablet</h3>
                   <p className="text-sm text-muted-foreground">
-                    Enhanced layouts for medium-sized screens with optimized touch interactions
+                    Enhanced layouts for medium-sized screens with optimised touch interactions
                   </p>
                 </div>
 
@@ -1024,11 +1024,11 @@ export default function WebsiteProposal() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
-                    <span>Touch-optimized navigation and booking process</span>
+                    <span>Touch-optimised navigation and booking process</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
-                    <span>Optimized images for faster loading on mobile</span>
+                    <span>Optimised images for faster loading on mobile</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
@@ -1040,7 +1040,7 @@ export default function WebsiteProposal() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
-                    <span>Mobile-optimized booking widget</span>
+                    <span>Mobile-optimised booking widget</span>
                   </li>
                 </ul>
               </div>
@@ -1050,7 +1050,7 @@ export default function WebsiteProposal() {
 
         {/* SEO and Performance */}
         <section className="mb-12">
-          <h2 className="text-2xl font-bold mb-6">SEO & Performance Optimization</h2>
+          <h2 className="text-2xl font-bold mb-6">SEO & Performance Optimisation</h2>
 
           <Card>
             <CardHeader>
@@ -1059,7 +1059,7 @@ export default function WebsiteProposal() {
             </CardHeader>
             <CardContent className="space-y-6">
               <p>
-                Your website will be built with search engine optimization (SEO) and performance as core considerations.
+                Your website will be built with search engine optimisation (SEO) and performance as core considerations.
                 This ensures that potential guests can easily find your property when searching for accommodation in
                 Hastings, and that they enjoy a fast, seamless experience once they arrive on your site.
               </p>
@@ -1081,9 +1081,9 @@ export default function WebsiteProposal() {
                     <li className="flex items-start gap-2">
                       <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
                       <div>
-                        <span className="font-medium">Local SEO Optimization</span>
+                        <span className="font-medium">Local SEO Optimisation</span>
                         <p className="text-sm text-muted-foreground mt-1">
-                          Google Business Profile optimization and local citation building
+                          Google Business Profile optimisation and local citation building
                         </p>
                       </div>
                     </li>
@@ -1101,7 +1101,7 @@ export default function WebsiteProposal() {
                       <div>
                         <span className="font-medium">Content Strategy</span>
                         <p className="text-sm text-muted-foreground mt-1">
-                          SEO-optimized content highlighting your unique selling points
+                          SEO-optimised content highlighting your unique selling points
                         </p>
                       </div>
                     </li>
@@ -1109,12 +1109,12 @@ export default function WebsiteProposal() {
                 </div>
 
                 <div>
-                  <h4 className="font-medium mb-4">Performance Optimization</h4>
+                  <h4 className="font-medium mb-4">Performance Optimisation</h4>
                   <ul className="space-y-3">
                     <li className="flex items-start gap-2">
                       <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
                       <div>
-                        <span className="font-medium">Image Optimization</span>
+                        <span className="font-medium">Image Optimisation</span>
                         <p className="text-sm text-muted-foreground mt-1">
                           Compression and lazy loading for faster page loading
                         </p>
@@ -1160,7 +1160,7 @@ export default function WebsiteProposal() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
-                    <span>Faster page load times (under 3 seconds)</span>
+                    <span>Faster page load times (target under 3 seconds)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-0.5" />
@@ -1191,14 +1191,14 @@ export default function WebsiteProposal() {
             </CardHeader>
             <CardContent className="space-y-6">
               <p>
-                Content is a crucial element of your website's success. We'll help you develop and implement a content
+                Content is a crucial element of your website's success. We can help you develop and implement a content
                 strategy that effectively communicates your unique value proposition, engages your target audience, and
                 drives bookings for your adult-only accommodation.
               </p>
 
               <Accordion type="single" collapsible className="w-full">
                 <AccordionItem value="item-1">
-                  <AccordionTrigger>Content Planning & Organization</AccordionTrigger>
+                  <AccordionTrigger>Content Planning & Organisation</AccordionTrigger>
                   <AccordionContent className="space-y-4">
                     <p className="text-sm text-muted-foreground">
                       We'll create a comprehensive content plan that outlines all required content for each page,
@@ -1309,10 +1309,10 @@ export default function WebsiteProposal() {
                 </AccordionItem>
 
                 <AccordionItem value="item-3">
-                  <AccordionTrigger>SEO Content Optimization</AccordionTrigger>
+                  <AccordionTrigger>SEO Content Optimisation</AccordionTrigger>
                   <AccordionContent className="space-y-4">
                     <p className="text-sm text-muted-foreground">
-                      All content will be optimized for search engines to improve your visibility for relevant searches.
+                      All content will be optimizsed for search engines to improve your visibility for relevant searches.
                     </p>
                     <div className="bg-muted p-4 rounded-md">
                       <h4 className="font-medium mb-2">SEO Content Elements:</h4>
@@ -1459,7 +1459,7 @@ export default function WebsiteProposal() {
                       <div>
                         <span className="font-medium">Email Updates</span>
                         <p className="text-sm text-muted-foreground mt-1">
-                          Regular written updates summarizing progress and next steps
+                          Regular written updates summarising progress and next steps
                         </p>
                       </div>
                     </li>
@@ -1641,7 +1641,7 @@ export default function WebsiteProposal() {
                       <div>
                         <span className="font-medium">WordPress Security</span>
                         <p className="text-sm text-muted-foreground mt-1">
-                          Regular updates, security plugins, and hardening measures
+                          Latest updates, security plugins, and hardening measures
                         </p>
                       </div>
                     </li>
@@ -1851,7 +1851,7 @@ export default function WebsiteProposal() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
-                    <span>Purchase any required third-party apps/licenses (e.g., Seekom)</span>
+                    <span>Purchase any required third-party apps/licenses (e.g., Seekom, SEO plugins, etc)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
@@ -1897,15 +1897,15 @@ export default function WebsiteProposal() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
-                    <span>Internal testing, QA, and performance optimizations</span>
+                    <span>Internal testing, QA, and performance optimisations</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
-                    <span>Implementation of all finalized assets and content</span>
+                    <span>Implementation of all finalised assets and content</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
-                    <span>SEO implementation and optimization</span>
+                    <span>SEO implementation and optimisation</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle className="h-4 w-4 text-primary mt-1" />
@@ -1991,6 +1991,7 @@ export default function WebsiteProposal() {
                     <li>• Accepted payment methods: Bank transfer, credit card</li>
                     <li>• Late payments subject to 1.5% monthly interest</li>
                     <li>• Project work begins upon receipt of initial deposit</li>
+                    <li>• All pricing excludes GST of 15%</li>
                   </ul>
                 </div>
               </CardContent>
@@ -2027,9 +2028,9 @@ export default function WebsiteProposal() {
                       <TableCell className="text-right">$1,500</TableCell>
                     </TableRow>
                     <TableRow>
-                      <TableCell className="font-medium">Monthly Maintenance</TableCell>
-                      <TableCell>Ongoing updates, security, and support</TableCell>
-                      <TableCell className="text-right">$250/month</TableCell>
+                      <TableCell className="font-medium">Monthly Hosting</TableCell>
+                      <TableCell>Ongoing updates, backups, security, and support</TableCell>
+                      <TableCell className="text-right">$99/month</TableCell>
                     </TableRow>
                     <TableRow>
                       <TableCell className="font-medium">Advanced SEO Package</TableCell>
@@ -2226,7 +2227,7 @@ export default function WebsiteProposal() {
                       <p className="h-6">Briar Albert</p>
                     </div>
                     <div className="space-y-2">
-                      <p className="text-sm text-muted-foreground">Title:</p>
+                      <p className="text-sm text-muted-foreground">Company Name:</p>
                       <p className="h-6">MAD Accommodation Ltd.</p>
                     </div>
                     <div className="space-y-2">
@@ -2249,7 +2250,7 @@ export default function WebsiteProposal() {
                       <p className="h-6">Richard Barely</p>
                     </div>
                     <div className="space-y-2">
-                      <p className="text-sm text-muted-foreground">Title:</p>
+                      <p className="text-sm text-muted-foreground">Company Name:</p>
                       <p className="h-6">Kiwi Digital Ltd.</p>
                     </div>
                     <div className="space-y-2">
